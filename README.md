@@ -1,0 +1,5 @@
+Randomization is a key component of a successful controlled clinical trial. Many restricted and minimization randomization methods have been developed to balance the distributions of covariates across treatment arms to remove potential confounding effects. While the restricted randomization methods would not work well if the number of covariates is large, the theoretical base of the minimization methods needs more justifications. We propose a Bayesian Covariate-Adaptive Randomization (BayCAR) method that not only has meaningful interpretations on its biasing randomization probabilities, but also achieves desirable overall and marginal balances, especially when the number of covariates to be balanced is large.
+
+The main function is FUN.BCAR.
+
+The authors of this software package make no representations or warranties of any kind, expressed or implied about the completeness, accuracy, reliability, suitability or availability with respect to the information, services or products contained on the website for any purpose. Any reliance you place on such material is therefore strictly at your own risk.
